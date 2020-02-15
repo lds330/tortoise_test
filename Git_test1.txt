@@ -1,0 +1,6 @@
+this is my first time to test git
+
+why???
+
+deleted the old repository and created a new one: Git
+test Git GUI default setttings
